@@ -31,7 +31,7 @@ appropriately
 Once started, the service will listen for incoming connections from a prometheus instance and will provide metrics to be stored in its engine
 
 
-#Grafana Dashboard
+# Grafana Dashboard
 
 the folder grafana contains an example Grafana dashboard that will display some of the metrics pulled from the modem, the ones specific to the DSL line are in the DSL section
 
